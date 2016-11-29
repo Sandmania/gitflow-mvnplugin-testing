@@ -7,4 +7,12 @@
 		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 	<artifactId>sub-module-2</artifactId>
+	
+	<dependencies>
+		<dependency>
+			<groupId>fi.sandmania.java.gitflow-mvnplugin</groupId>
+			<artifactId>sub-module-1</artifactId>
+			<version>0.0.2-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>

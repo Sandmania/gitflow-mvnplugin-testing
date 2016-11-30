@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fi.sandmania.java.gitflow-mvnplugin</groupId>
 	<artifactId>gitflow-mvnplugin-test</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
 		<module>sub-module-1</module>

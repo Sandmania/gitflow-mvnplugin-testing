@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>fi.sandmania.java.gitflow-mvnplugin</groupId>
 		<artifactId>gitflow-mvnplugin-test</artifactId>
-		<version>0.0.3-SNAPSHOT</version>
+		<version>0.0.3-testing-gitflow-plugin-SNAPSHOT</version>
 	</parent>
 	<artifactId>sub-module-2</artifactId>
 	
@@ -12,7 +12,7 @@
 		<dependency>
 			<groupId>fi.sandmania.java.gitflow-mvnplugin</groupId>
 			<artifactId>sub-module-1</artifactId>
-			<version>0.0.3-SNAPSHOT</version>
+			<version>0.0.3-testing-gitflow-plugin-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 </project>
